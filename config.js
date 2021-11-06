@@ -52,17 +52,17 @@ var config = {
         "每一个难忘而美好的生日!" :  "./imgs/IMG_20210504_103000.jpg",
         "最后希望小赵能够顺利上岸!" :  "./imgs/IMG_20210504_201749.jpg",
         "生日快乐！！！宝宝！" :  "./imgs/IMG_20210505_065549.jpg",
-        "dsx ❤ zwy":  "./imgs/IMG_20211101_170934.jpg",
+        "dsx ❤ zwy":  "./imgs/IMG_20211101_170934.jpg"
     },
 
     desc: {
-        turn_on: "开始",
-        play: "音乐",
-        bannar_coming: "颜色",
-        balloons_flying: "好像少点东西",
-        cake_fadein: "蛋糕？",
-        light_candle: "蜡烛？",
-        wish_message: "生日快乐",
+        turn_on: "小赵",
+        play: "Happy Birthday",
+        bannar_coming: "Go!",
+        balloons_flying: "SeemsToBeLess",
+        cake_fadein: "Cake？",
+        light_candle: "Candle？",
+        wish_message: "happyBirthday",
         story: "A MESSAGE FOR YOU",
     }
 };
